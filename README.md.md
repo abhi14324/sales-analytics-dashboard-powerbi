@@ -146,8 +146,13 @@ This deployment demonstrates practical understanding of dashboard publishing and
 
 Power BI Service Link: https://app.powerbi.com/groups/b9cc1061-396a-4d50-8f0e-50d72ef5750c/reports/4b3dcc0d-6d05-46be-9109-ad91a278eb6b/43d5e75bef3e436978fa?experience=power-bi
 
+---
 
---- 
+## 📸 Screenshots
+
+![Sales_Dashboard](screenshots)
+
+----
 
 ## Key Business Insights
 
