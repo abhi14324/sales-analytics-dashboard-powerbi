@@ -93,9 +93,13 @@ Click the Power BI Service link below to access the published report online with
 ```
 sales-analytics-dashboard/
 │
+|dataset/
+|   ├── Store Dataset.xlsx
+|
 ├── Sales_Analytics_Dashboard.pbix         ← Power BI report file
 │
-├── Store_Dataset.xlsx                     ← Source dataset
+├── documentation/
+|   ├── Sales_Analytics_Dashboard.docx                   
 │
 ├── screenshots/
 │   ├── Top_and_Bottom_5_Analysis.png
