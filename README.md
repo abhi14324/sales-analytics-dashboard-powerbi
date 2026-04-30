@@ -23,6 +23,22 @@ The project combines:
 
 ---
 
+## ⚠️ Problem Statement
+Retail businesses deal with large volumes of transactional data every day — but without a 
+
+centralized analytical view, critical business questions go unanswered:
+
+- Which products are generating revenue and which are draining it?
+- Are promotional discounts actually driving profitable sales?
+- Which cities and regions deserve more investment?
+- How is the business performing this period vs last period?
+
+Decision-makers often rely on scattered spreadsheets and manual reporting, which is slow, error-prone, and lacks the interactivity needed for fast business decisions.
+
+This project solves that problem by building an interactive Sales Analytics Dashboard in Power BI that consolidates 3,510+ transactions (2020–2023) into a single, filterable, real-time analytical platform — enabling product managers, sales teams, and executives to make data-driven decisions confidently and quickly.
+
+---
+
 ## 🎯 Project Objectives
 
 This project answers key business questions such as:
